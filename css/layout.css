@@ -410,6 +410,10 @@ a:hover {
     line-height: 22px;
 }
 
+.home-contact-bottom img:hover {
+    opacity: 0.8;
+}
+
 .home-content-bottom ul li:before {
     position: relative;
     left: -4px;

@@ -19,7 +19,7 @@ layout: home
 
 {% capture contentHobbies %}
 
-- [Open Source](http://github.com/mhor)
+- [Open Source](https://github.com/mhor?tab=activity)
 - Code Quality
 - [Musique](http://www.lastfm.fr/user/mhor_)
 
