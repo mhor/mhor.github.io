@@ -1,0 +1,80 @@
+
+
+@media all and (max-width: 1050px) {
+    .documentation > div.wrapper {
+        margin-left: 15px;
+    }
+
+    .documentation-content {
+        width: 74%;
+    }
+    .documentation-navigation {
+        width: 25%;
+    }
+}
+
+
+@media all and (max-width: 774px) {
+    .home-screen img {
+        display: none;
+
+    }
+    .home-screen {
+        position: relative;
+        width: 100%;
+        -webkit-background-size: 100%;
+        -moz-background-size: 100%;
+        background-size: 100%;
+        background-repeat: no-repeat;
+    }
+
+    .main-wrapper {
+        padding: 25px 5px;
+    }
+}
+
+@media all and (max-width: 650px) {
+    .documentation-content {
+        width: 100%;
+    }
+    .documentation-navigation {
+        width: 100%;
+    }
+
+    .home-content-left {
+        float: none;
+        padding: 5px;
+        width: auto;
+    }
+    .home-content-right {
+        float: none;
+        padding: 5px;
+        border-left: 0;
+        width: auto;
+    }
+
+    header {
+        height: auto;
+    }
+
+    header nav {
+        line-height: 30px;
+    }
+}
+
+@media all and (max-width: 500px) {
+
+    header nav {
+        float: none;
+    }
+    header nav li,
+    header nav li a,
+    header nav li a:link {
+        display: block !important;
+        float: none !important;
+    }
+
+    .documentation-content .wrapper {
+        margin: 5px;
+    }
+}

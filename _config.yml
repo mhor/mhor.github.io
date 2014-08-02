@@ -1,0 +1,39 @@
+pygments:  true
+permalink: /blog/:year/:month/:day/:title.html
+markdown:  redcarpet
+exclude:   [ README.md, Gemfile ]
+redcarpet:
+    extensions: ["tables", "no_intra_emphasis"]
+profile:
+    name: "Maxime Horcholle"
+    status: "Développeur PHP"
+    aged: "23 ans"
+    email: "maxime.horcholle@gmail.com"
+    studies:
+        - "2012-2014 - Sandwich training master of mobile application engineering, good distinction"
+        - "2011-2012 - Sandwich training bachelor of web development, good distinction"
+        - "2009-2011 - DUT Networks and services of communication at IUT of Champs sur Marne"
+    experiences:
+        - "2012-2014 - Web and mobile developer in the web agency MentalWorks (Zend Framework, Titanium, Symfony2)"
+        - "2011-2012 - Web developer in the web agency MentalWorks (Zend Framework, Titanium, Laravel)"
+        - "May-July 2011 - Internship in the web agency MentalWorks (Zend Framework)"
+    skills:
+        language:
+            - "PHP"
+            - "Javascript"
+            - "Java/Android"
+            - "XML/JSON/YAML"
+            - "HTML/TWIG"
+            - "CSS"
+        environment:
+            - "Git"
+            - "Vagrant"
+            - "PHPUnit"
+            - "Linux/Mac"
+            - "Symfony2"
+            - "Apache"
+    hobbies:
+        - "OpenSource"
+        - "Music": ""
+    Links:
+        "[Github](https://github.com/mhor)"
