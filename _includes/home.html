@@ -1,4 +1,3 @@
-
 <div class="home-content-top">
     <div class="home-content-left">
         {{ contentLeft | markdownify }}
@@ -14,13 +13,23 @@
 <div class="home-skills-header"><h2>Centre d'intérets</h2></div>
 <div class="home-content-bottom">
     <div class="wrapper">
-       {{ contentHobbies | markdownify }}
+        {{ contentHobbies | markdownify }}
     </div>
 </div>
+
+<div class="break"></div>
 
 <div class="home-skills-header"><h2>Projets</h2></div>
 <div class="home-content-bottom">
     <div class="wrapper">
         {{ contentProject | markdownify }}
+    </div>
+</div>
+
+<div class="break"></div>
+<div class="home-skills-header"><h2>Contact</h2></div>
+<div class="home-content-bottom home-contact-bottom">
+    <div class="wrapper">
+        {{ contentContact | markdownify }}
     </div>
 </div>

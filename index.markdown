@@ -19,16 +19,25 @@ layout: home
 
 {% capture contentHobbies %}
 
-- Open Source
+- [Open Source](http://github.com/mhor)
 - Code Quality
-- Musique
+- [Musique](http://www.lastfm.fr/user/mhor_)
 
 {% endcapture %}
 
 {% capture contentProject %}
 
-- php-mp3info [![Build Status](https://travis-ci.org/mhor-music/php-mp3info.svg?branch=master)](https://travis-ci.org/mhor-music/php-mp3info)
+- [php-mp3info ](https://github.com/mhor-music/php-mp3info) [![Build Status](https://travis-ci.org/mhor-music/php-mp3info.svg?branch=master)](https://travis-ci.org/mhor-music/php-mp3info)
 
 {% endcapture %}
+
+{% capture contentContact %}
+
+- [![maxime.horcholle@gmail.comr](images/email.png)](<mailto:maxime.horcholle@gmail.com>)
+- [![http://github.com/mhor](images/github.png)](https://github.com/mhor)
+- [![https://www.linkedin.com/pub/maxime-horcholle/72/912/675](images/linkedin.png)] (https://www.linkedin.com/pub/maxime-horcholle/72/912/675)
+
+{% endcapture %}
+
 
 {% include home.html %}

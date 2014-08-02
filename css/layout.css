@@ -295,6 +295,96 @@ a:hover {
     padding: 6px 0;
 }
 
+.home-content-left,
+.home-content-right {
+    box-sizing: border-box;
+    width: 50%;
+}
+
+.home-content-right {
+    float: right;
+    padding: 30px;
+    border-left: 1px solid #415388;
+}
+
+.home-content-left {
+    float: left;
+    padding: 25px;
+    padding-top: 30px;
+}
+
+.home-content-right table {
+    width: 100%;
+}
+
+.home-content-right table {
+    margin-top: 5px;
+}
+
+.home-content-right table td {
+    padding: 6px 0;
+}
+
+.home-contact-left,
+.home-contact-right {
+    box-sizing: border-box;
+    width: 50%;
+}
+
+.home-contact-right {
+    float: right;
+    padding: 100px;
+    border-left: 1px solid white;
+}
+
+.home-contact-left {
+    float: left;
+    padding: 25px;
+    padding-top: 30px;
+}
+
+.home-contact-right table {
+    width: 100%;
+}
+
+.home-contact-right table {
+    margin-top: 5px;
+}
+
+.home-contact-right table td {
+    padding: 6px 0;
+}
+
+.home-contact-left,
+.home-contact-right {
+    box-sizing: border-box;
+    width: 50%;
+}
+
+.home-contact-right {
+    float: right;
+    padding: 30px;
+    border-left: 1px solid #415388;
+}
+
+.home-contact-left {
+    float: left;
+    padding: 25px;
+    padding-top: 30px;
+}
+
+.home-contact-right table {
+    width: 100%;
+}
+
+.home-contact-right table {
+    margin-top: 5px;
+}
+
+.home-contact-right table td {
+    padding: 6px 0;
+}
+
 .home-content-bottom {
     padding: 20px 0;
     background-color: #1C3058;
@@ -321,8 +411,16 @@ a:hover {
 }
 
 .home-content-bottom ul li:before {
-    content: "✓";
     position: relative;
+    left: -4px;
+}
+
+.home-contact-bottom ul li{
+    content: "";
+    display: inline;
+    list-style: none;
+    position: relative;
+    margin: auto;
     left: -4px;
 }
 
