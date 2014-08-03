@@ -29,8 +29,7 @@ header {
 header > div.wrapper,
 footer > div.wrapper,
 .header-line > .wrapper,
-.main-wrapper,
-.documentation > div.wrapper {
+.main-wrapper {
     max-width: 700px;
     margin: auto;
 }
@@ -204,6 +203,10 @@ a:hover {
     font-weight: 800;
 }
 
+.mrg {
+    margin-top: 25px;
+}
+
 .home-skills-header {
     position: relative;
     background-color: #292C4B;
@@ -261,7 +264,8 @@ a:hover {
 }
 
 .home-content-top {
-    max-width: 700px;
+
+    max-width: 1800px;
     margin: 25px auto;
 }
 
