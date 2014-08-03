@@ -12,7 +12,7 @@ layout: home
 {% capture contentRight %}
 ## Etudes ##
 
-- **2014:** Master Architecture logiciel (ESGI - Paris)
+- **2015:** Master Architecture logicielle (ESGI - Paris)
 - **2012:** Licence CSID (Paris 8 - Montreuil)
 - **2009-2011:** BTS Informatique de Gestion (Lycée Voillaume - Aulnay sous Bois)
 {% endcapture %}

@@ -6,6 +6,7 @@ body, html {
     margin: 0;
     color: #444;
     font-size: 14px;
+    min-width: 400px;
 }
 
 b, strong {
@@ -30,7 +31,7 @@ footer > div.wrapper,
 .header-line > .wrapper,
 .main-wrapper,
 .documentation > div.wrapper {
-    max-width: 1000px;
+    max-width: 700px;
     margin: auto;
 }
 
@@ -131,7 +132,6 @@ a:hover {
 }
 
 .home-banner {
-    height: 300px;
     background-color: #415388;
     text-align: center;
     transition-duration: 1s;
@@ -178,7 +178,7 @@ a:hover {
     color: white;
     text-shadow: 0 1px 1px rgb(108, 108, 108);
     font-size: 70px;
-    max-width: 800px;
+    max-width: 700px;
     margin: auto;
     line-height: 70px;
     font-weight: 100;
@@ -190,12 +190,12 @@ a:hover {
     color: white;
     text-shadow: 0 1px 1px rgb(108, 108, 108);
     font-size: 55px;
-    max-width: 800px;
+    max-width: 700px;
     margin: auto;
     line-height: 60px;
     font-weight: 100;
     padding-top: 30px;
-    padding-bottom: 600px;
+    padding-bottom: 30px;
     font-style: italic;
     font-family: 'Open Sans', sans-serif;
 }
@@ -240,7 +240,7 @@ a:hover {
 
 .home-skills-item {
     float: left;
-    width: 330px;
+    width: 300px;
     padding-top: 30px;
     text-align: center;
     white-space: pre-line;
@@ -261,7 +261,7 @@ a:hover {
 }
 
 .home-content-top {
-    max-width: 1000px;
+    max-width: 700px;
     margin: 25px auto;
 }
 
@@ -325,66 +325,6 @@ a:hover {
     padding: 6px 0;
 }
 
-.home-contact-left,
-.home-contact-right {
-    box-sizing: border-box;
-    width: 50%;
-}
-
-.home-contact-right {
-    float: right;
-    padding: 100px;
-    border-left: 1px solid white;
-}
-
-.home-contact-left {
-    float: left;
-    padding: 25px;
-    padding-top: 30px;
-}
-
-.home-contact-right table {
-    width: 100%;
-}
-
-.home-contact-right table {
-    margin-top: 5px;
-}
-
-.home-contact-right table td {
-    padding: 6px 0;
-}
-
-.home-contact-left,
-.home-contact-right {
-    box-sizing: border-box;
-    width: 50%;
-}
-
-.home-contact-right {
-    float: right;
-    padding: 30px;
-    border-left: 1px solid #415388;
-}
-
-.home-contact-left {
-    float: left;
-    padding: 25px;
-    padding-top: 30px;
-}
-
-.home-contact-right table {
-    width: 100%;
-}
-
-.home-contact-right table {
-    margin-top: 5px;
-}
-
-.home-contact-right table td {
-    padding: 6px 0;
-}
-
 .home-content-bottom {
     padding: 20px 0;
     background-color: #1C3058;
@@ -410,6 +350,20 @@ a:hover {
     line-height: 22px;
 }
 
+.home-content-bottom li {
+    font-size: 30px;
+    padding: 5px;
+    color: #376e90;
+}
+
+.home-content-bottom a {
+    color: #376e90;
+}
+
+.home-content-bottom a:hover {
+    color: #4f9cd0;
+}
+
 .home-contact-bottom img:hover {
     opacity: 0.8;
 }
@@ -419,7 +373,7 @@ a:hover {
     left: -4px;
 }
 
-.home-contact-bottom ul li{
+.home-contact-bottom ul li {
     content: "";
     display: inline;
     list-style: none;
