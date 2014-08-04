@@ -4,8 +4,8 @@ layout: home
 
 {% capture contentLeft %}
 ## Expériences  ##
-- **2012-2014:** Cassini-Solution: PHP/Postgresql
-- **2012-2014:** HappyEnd: PHP/MySQL/Symfony2/Prestashop
+- **2012-2013:** Cassini-Solution: PHP/Postgresql
+- **2013-2014:** HappyEnd: PHP/MySQL/Symfony2/Prestashop
 
 {% endcapture %}
 
