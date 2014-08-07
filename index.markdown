@@ -13,21 +13,21 @@ layout: home
 ## Etudes ##
 
 - **2015:** Master Architecture logicielle (ESGI - Paris)
-- **2012:** Licence CSID (Paris 8 - Montreuil)
+- **2012:** Licence professionnelle Conception des systèmes d'information, intégration et décision (Paris 8 - Montreuil)
 - **2009-2011:** BTS Informatique de Gestion (Lycée Voillaume - Aulnay sous Bois)
 {% endcapture %}
 
 {% capture contentHobbies %}
 
 - [Open Source](https://github.com/mhor?tab=activity)
-- Code Quality
+- [Code Quality](https://github.com/mhor-edu/Memoire5AL)
 - [Musique](http://www.lastfm.fr/user/mhor_)
 
 {% endcapture %}
 
 {% capture contentProject %}
 
-- [php-mp3info ](https://github.com/mhor-music/php-mp3info) [![Build Status](https://travis-ci.org/mhor-music/php-mp3info.svg?branch=master)](https://travis-ci.org/mhor-music/php-mp3info)
+- [php-mp3info](https://github.com/mhor-music/php-mp3info) [![Build Status](https://travis-ci.org/mhor-music/php-mp3info.svg?branch=master)](https://travis-ci.org/mhor-music/php-mp3info)
 
 {% endcapture %}
 
