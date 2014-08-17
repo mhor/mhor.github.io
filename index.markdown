@@ -4,8 +4,8 @@ layout: home
 
 {% capture contentLeft %}
 ## Expériences  ##
-- **2012-2013:** [Cassini-Solution](http://www.cassini-solutions.com/): PHP5 / Postgresql / Symfony2
-- **2013-2014:** [HappyEnd](http://happyend.fr/): PHP5 / MySQL / Symfony2 / Prestashop
+- **Septembre 2011 à Novembre 2013:** [Cassini-Solution](http://www.cassini-solutions.com/): PHP5 / Postgresql / Symfony2
+- **Novembre 2013 à Septembre 2014:** [HappyEnd](http://happyend.fr/): PHP5 / MySQL / Symfony2 / Prestashop
 
 {% endcapture %}
 
