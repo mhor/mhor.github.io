@@ -28,6 +28,7 @@ layout: home
 {% capture contentProject %}
 
 - [php-mp3info](https://github.com/mhor-music/php-mp3info) [![Build Status](https://travis-ci.org/mhor-music/php-mp3info.svg?branch=master)](https://travis-ci.org/mhor-music/php-mp3info)
+- [regex-tester](https://github.com/mhor/regex-tester) [![Build Status](https://travis-ci.org/mhor/regex-tester.svg?branch=master)](https://travis-ci.org/mhor/regex-tester)
 
 {% endcapture %}
 
