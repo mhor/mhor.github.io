@@ -12,7 +12,7 @@ layout: home
 {% capture contentRight %}
 ## Etudes ##
 
-- **2015:** Master Architecture logicielle (ESGI - Paris)
+- **2014:** Master Architecture logicielle (ESGI - Paris)
 - **2012:** Licence professionnelle Conception des systèmes d'information, intégration et décision (Paris 8 - Montreuil)
 - **2009-2011:** BTS Informatique de Gestion (Lycée Voillaume - Aulnay sous Bois)
 {% endcapture %}
