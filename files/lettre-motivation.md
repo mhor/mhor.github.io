@@ -1,6 +1,6 @@
 Madame, monsieur
 
-La lecture de votre annonce a suscité un réel intérêt de ma part, c'est pour cela que je me permets de vous envoyer mon CV afin de postuler au poste de [intitulé du poste].
+La lecture de votre annonce a suscité un réel intérêt de ma part, je me permets donc de vous envoyer mon CV afin de postuler au poste de [intitulé du poste].
 
 En fin de formation Master architecte logiciel je recherche mon premier emploi en CDI. En alternance depuis trois ans j'ai développé au cours de ces trois années un attrait tout particulier pour le PHP. 
 
