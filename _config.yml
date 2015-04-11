@@ -2,38 +2,40 @@ pygments:  true
 permalink: /blog/:year/:month/:day/:title.html
 markdown:  redcarpet
 exclude:   [ README.md, Gemfile ]
-redcarpet:
-    extensions: ["tables", "no_intra_emphasis"]
 profile:
     name: "Maxime Horcholle"
     status: "Développeur PHP"
-    aged: "23 ans"
+    aged: "24 ans"
     email: "maxime.horcholle@gmail.com"
     studies:
-        - "2012-2014 - Sandwich training master of mobile application engineering, good distinction"
-        - "2011-2012 - Sandwich training bachelor of web development, good distinction"
-        - "2009-2011 - DUT Networks and services of communication at IUT of Champs sur Marne"
-    experiences:
-        - "2012-2014 - Web and mobile developer in the web agency MentalWorks (Zend Framework, Titanium, Symfony2)"
-        - "2011-2012 - Web developer in the web agency MentalWorks (Zend Framework, Titanium, Laravel)"
-        - "May-July 2011 - Internship in the web agency MentalWorks (Zend Framework)"
+        - 2015: "Master Architecture logicielle (ESGI - Paris)"
+        - 2012: "Licence professionnelle Conception des systèmes d'information, intégration et décision (Paris 8 - Montreuil)"
+        - 2011: "BTS Informatique de Gestion (Lycée Voillaume - Aulnay sous Bois)"
     skills:
         language:
             - "PHP"
             - "Javascript"
-            - "Java/Android"
-            - "XML/JSON/YAML"
-            - "HTML/TWIG"
+            - "Android"
+            - "XML"
+            - "JSON"
+            - "YAML"
+            - "HTML"
+            - "Twig"
             - "CSS"
-        environment:
+        framework:
+            - "Symfony2"
+            - "PHPUnit"
+        tool:
             - "Git"
             - "Vagrant"
-            - "PHPUnit"
-            - "Linux/Mac"
-            - "Symfony2"
-            - "Apache"
+            - "Redis"
+            - "Docker"
+            - "Linux"
     hobbies:
         - "OpenSource"
-        - "Music": ""
-    Links:
-        "[Github](https://github.com/mhor)"
+        - "Code quality"
+        - "Music"
+    links:
+        - github: https://github.com/mhor
+        - email: maxime.horcholle@gmail.com
+        - linkdIn: https://www.linkedin.com/pub/maxime-horcholle/72/912/675

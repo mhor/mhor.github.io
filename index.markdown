@@ -4,8 +4,10 @@ layout: home
 
 {% capture contentLeft %}
 ## Expériences  ##
-- **Septembre 2011 à Novembre 2013:** [Cassini-Solution](http://www.cassini-solutions.com/): PHP5 / Postgresql / Symfony2
+
+- **Depuis Octobre 2014:** [Socloz](http://socloz.com): PHP5 / MongoDB / Symfony2
 - **Novembre 2013 à Septembre 2014:** [HappyEnd](http://happyend.fr/): PHP5 / MySQL / Symfony2 / Prestashop
+- **Septembre 2011 à Novembre 2013:** [Cassini-Solution](http://www.cassini-solutions.com/): PHP5 / Postgresql / Symfony2
 
 {% endcapture %}
 
@@ -29,6 +31,8 @@ layout: home
 
 - [php-mp3info](https://github.com/mhor-music/php-mp3info) [![Build Status](https://travis-ci.org/mhor-music/php-mp3info.svg?branch=master)](https://travis-ci.org/mhor-music/php-mp3info)
 - [regex-tester](https://github.com/mhor/regex-tester) [![Build Status](https://travis-ci.org/mhor/regex-tester.svg?branch=master)](https://travis-ci.org/mhor/regex-tester)
+- [php-mediainfo](https://github.com/mhor/php-mediainfo) [![Build Status](https://travis-ci.org/mhor/php-mediainfo.svg?branch=master)](https://travis-ci.org/mhor/php-mediainfo)
+- [lastfm-dashboard](https://github.com/mhor/lastfm-dashboard)
 
 {% endcapture %}
 
