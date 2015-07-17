@@ -1,7 +1,7 @@
 pygments:  true
 permalink: /blog/:year/:month/:day/:title.html
 markdown:  redcarpet
-exclude:   [ README.md, Gemfile ]
+exclude:   [ README.md, Gemfile, vendor]
 profile:
     name: "Maxime Horcholle"
     status: "Développeur PHP"
@@ -39,3 +39,4 @@ profile:
         - github: https://github.com/mhor
         - email: maxime.horcholle@gmail.com
         - linkdIn: https://www.linkedin.com/pub/maxime-horcholle/72/912/675
+
