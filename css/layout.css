@@ -131,6 +131,9 @@ a:hover {
 }
 
 .home-banner {
+    background-image: url(/images/banner.png);
+    background-attachment : fixed;
+    background-size : cover;
     background-color: #415388;
     text-align: center;
     transition-duration: 1s;
