@@ -40,7 +40,7 @@ layout: home
 
 - [![maxime.horcholle@gmail.comr](images/email.png)](<mailto:maxime.horcholle@gmail.com>)
 - [![http://github.com/mhor](images/github.png)](https://github.com/mhor)
-- [![https://www.linkedin.com/pub/maxime-horcholle/72/912/675](images/linkedin.png)] (https://www.linkedin.com/pub/maxime-horcholle/72/912/675)
+- [![https://www.linkedin.com/pub/maxime-horcholle/72/912/675](images/linkedin.png)](https://www.linkedin.com/pub/maxime-horcholle/72/912/675)
 - [![https://twitter.com/_mhor_](images/twitter.png)](https://twitter.com/_mhor_)
 - [![https://www.flickr.com/photos/126146100@N08/](images/flickr.png)](https://www.flickr.com/photos/126146100@N08/)
 
