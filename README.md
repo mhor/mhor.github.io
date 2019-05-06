@@ -1,4 +1,18 @@
-# mhor.github.io [![Build Status](https://travis-ci.org/mhor/mhor.github.io.svg?branch=master)](https://travis-ci.org/mhor/mhor.github.io)
+#MhorResume
 
+##Introduction
 
-My Website => http://mhor.github.io 
+My resume
+
+## Install
+
+```bash
+$ git clone https://github.com/mhor/mhor.github.io.git
+$ cd mhor.github.io
+$ npm install
+$ npm run build
+```
+
+##License
+
+MIT License, see [LICENSE](LICENSE)

@@ -1,0 +1,26 @@
+{
+  "name": "mhor",
+  "version": "1.0.0",
+  "description": "my resume website",
+  "main": "webpack.config.js",
+  "scripts": {
+    "build": "webpack --mode production"
+  },
+  "author": "Maxime Horcholle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mhor/mhor.github.io/issues"
+  },
+  "homepage": "https://github.com/mhor/mhor.github.io",
+  "devDependencies": {
+    "bulma": "^0.7.4",
+    "css-loader": "^2.1.1",
+    "extract-text-webpack-plugin": "^4.0.0-beta.0",
+    "node-sass": "^4.11.0",
+    "sass-loader": "^7.1.0",
+    "style-loader": "^0.23.1",
+    "webpack": "^4.30.0",
+    "webpack-cli": "^3.3.0",
+    "bulma-timeline": "^3.0.3"
+  }
+}

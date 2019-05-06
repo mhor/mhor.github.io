@@ -1,4 +1,4 @@
-_site/
-Gemfile.lock
-./idea
+.idea
 *.iml
+node_modules
+build
