@@ -1,6 +1,6 @@
-#MhorResume
+# mhor.eu
 
-##Introduction
+## Introduction
 
 My resume
 
