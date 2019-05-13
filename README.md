@@ -13,6 +13,6 @@ $ npm install
 $ npm run build
 ```
 
-##License
+## License
 
 MIT License, see [LICENSE](LICENSE)
