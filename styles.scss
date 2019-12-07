@@ -1,19 +1,18 @@
 @charset "utf-8";
-@import "node_modules/bulma/sass/utilities/_all.sass";
-@import "node_modules/bulma/sass/base/_all.sass";
-@import "node_modules/bulma/sass/grid/_all.sass";
-@import "node_modules/bulma/sass/layout/all.sass";
-@import "node_modules/bulma/sass/elements/button.sass";
-@import "node_modules/bulma/sass/elements/box.sass";
-@import "node_modules/bulma/sass/elements/container.sass";
-@import "node_modules/bulma/sass/elements/form.sass";
-@import "node_modules/bulma/sass/elements/tag.sass";
-@import "node_modules/bulma/sass/elements/title.sass";
-@import "node_modules/bulma/sass/components/card.sass";
-@import "node_modules/bulma/sass/components/level.sass";
-@import "node_modules/bulma/sass/components/navbar.sass";
 
-@import "node_modules/bulma-timeline/dist/css/bulma-timeline.sass";
+@import "node_modules/bulma/sass/utilities/_all";
+@import "node_modules/bulma/sass/base/_all";
+@import "node_modules/bulma/sass/grid/_all";
+@import "node_modules/bulma/sass/layout/all";
+@import "node_modules/bulma/sass/elements/box";
+@import "node_modules/bulma/sass/elements/container";
+@import "node_modules/bulma/sass/elements/tag";
+@import "node_modules/bulma/sass/elements/title";
+@import "node_modules/bulma/sass/components/card";
+@import "node_modules/bulma/sass/components/level";
+@import "node_modules/bulma/sass/components/navbar";
+
+@import "node_modules/bulma-timeline/dist/css/bulma-timeline";
 
 html {
     scroll-behavior: smooth;
@@ -24,6 +23,13 @@ html {
     background-size:cover; 
 }
 
-#overview .title, #overview .subtitle {
+#overview .title, 
+#overview .subtitle {
     color: #ffffff;
+}
+
+img.links-logo {
+    vertical-align:top;
+    height: 25px;
+    width: 25px;
 }
