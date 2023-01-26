@@ -7,6 +7,8 @@ module.exports = {
 
     /* Path to built files directory */
     output: path.resolve(__dirname, '../dist/'),
+
+    root: path.resolve(__dirname, '../CNAME'),
   },
   server: {
     host: 'localhost',
